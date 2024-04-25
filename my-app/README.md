@@ -1,6 +1,8 @@
 
 ![Projeto](image.png)
 
+Para rodar este projeto digite no CMD: ng serve -o
+
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.5.
